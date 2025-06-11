@@ -10,6 +10,6 @@ Este repositório contém a base para o desafio técnico de backend utilizando A
 
 ## Entrega
 
-Após finalizar o desafio, compacte (ZIP) o projeto e envie por e-mail, ou suba em um repositório privado e compartilhe o acesso.
+Após finalizar o desafio, compacte (ZIP) o projeto e envie por e-mail.
 
 Boa sorte!
